@@ -1,5 +1,5 @@
 # ContactBook
-ContactBook is a project completed at CUNY Queen's CSCI211 (Object Oriented Programming in C++) in Spring 2014 
+ContactBook is a project attempted at CUNY Queen's CSCI211 (Object Oriented Programming in C++) in Spring 2014 
 taught by Professor Yosef Alayev. 
 
 ContactBook project simulates a Management System for a collection of Contact Books.
